@@ -33,7 +33,7 @@
 
 您可以在一组云服务器ECS上通过Docker容器管理应用生命周期。更多信息，请参考 [容器服务（Container Service）文档](https://www.alibabacloud.com/help/product/25972.htm)。
 
-您可以对多台云服务器ECS实现流量分发的负载均衡服务。更多信息，请参考 [负载均衡（Server Load Balancer）文档](https://www.alibabacloud.com/help/product/27537.htm)。
+您可以对多台云服务器ECS应用负载均衡服务实现流量分发。更多信息，请参考 [负载均衡（Server Load Balancer）文档](https://www.alibabacloud.com/help/product/27537.htm)。
 
 您可以监控ECS实例、系统盘和公网带宽等。更多信息，请参考 [云监控（CloudMonitor）文档](https://www.alibabacloud.com/help/product/28572.htm)。
 
